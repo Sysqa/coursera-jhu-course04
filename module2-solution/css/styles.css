@@ -22,6 +22,7 @@ h1 {
 section {
   background-color: lightgray;
   border: 1px solid black;
+  margin: 10px;
   padding: 35px 10px 5px 10px;
   position: relative;
 }
@@ -75,7 +76,7 @@ section > h2 {
     width: 25%;
   }
   .col-lg-4 {
-    width: 31.5%;
+    width: 33%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -100,18 +101,6 @@ section > h2 {
   }
   .col-lg-12 {
     width: 100%;
-  }
-
-  #chicken {
-    margin: 0 10px 20px 0;
-  }
-
-  #beef {
-    margin: 0 10px 20px 10px;
-  }
-
-  #sushi {
-    margin: 0 0 20px 10px;
   }
 }
 
@@ -147,7 +136,7 @@ section > h2 {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 48%;
+    width: 50%;
   }
   .col-md-7 {
     width: 58.33%;
@@ -165,19 +154,7 @@ section > h2 {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 98.5%;
-  }
-
-  #chicken {
-    margin: 0 10px 10px 0;
-  }
-
-  #beef {
-    margin: 0 0 10px 10px;
-  }
-
-  #sushi {
-    margin: 10px 0 20px 0;
+    width: 100%;
   }
 }
 
@@ -232,17 +209,5 @@ section > h2 {
   }
   .col-sm-12 {
     width: 100%;
-  }
-
-  .row {
-    width: 85%;
-  }
-
-  #chicken {
-    margin: 0 0 10px 0;
-  }
-
-  #beef, #sushi {
-    margin: 10px 0 10px 0;
   }
 }
