@@ -4,6 +4,10 @@
   border: 1px solid black;
 }
 
+#header-nav .container {
+  width: 100%;
+}
+
 .navbar-brand {
   height: inherit;
 }
@@ -61,7 +65,7 @@
 
   .navbar-toggle {
     margin-top: -20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
 
   #collapsable-nav {
